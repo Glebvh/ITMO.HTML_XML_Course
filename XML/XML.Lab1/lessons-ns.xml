@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<myns:ITMOCourses xmlns:myns = "http://www.mynamespace.ru/myns">
+<nslit:literature xmlns:nslit = "literaturelist">
+	<myns:course id = "1">
+		<myns:coursename>Технологии программирования</myns:coursename>
+		<myns:teacher>ст. преп. Смольянинов А.В.</myns:teacher>
+		<myns:begin>28.03.2022</myns:begin>
+		<myns:end>15.04.2022</myns:end>
+		<nslit:book1>Книга1</nslit:book1>
+		<nslit:book2>Книга2</nslit:book2>	
+	</myns:course>
+	
+	<myns:course id = "2">
+		<myns:coursename>Введение в базы данных</myns:coursename>
+		<myns:teacher>ст. преп. Ямщиков Д.В.</myns:teacher>
+		<myns:begin>18.04.2022</myns:begin>
+		<myns:end>29.04.2022</myns:end>
+		<nslit:book2>Книга2</nslit:book2>
+		<nslit:book3>Книга3</nslit:book3>
+	</myns:course>
+	
+	<myns:course id = "3">
+		<myns:coursename>Программирование на C# </myns:coursename>
+		<myns:teacher>ст. преп. Смольянинов А.В.</myns:teacher>
+		<myns:begin>11.05.2022</myns:begin>
+		<myns:end>31.05.2022</myns:end>
+		<nslit:book4>Книга4</nslit:book4>
+		<nslit:book5>Книга5</nslit:book5>
+	</myns:course>
+</nslit:literature>
+</myns:ITMOCourses>

@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<ITMOCourses>
+	<course id = "1">
+		<coursename>Технологии программирования</coursename>
+		<teacher>ст. преп. Смольянинов А.В.</teacher>
+		<begin>28.03.2022</begin>
+		<end>15.04.2022</end>
+	</course>
+	
+	<course id = "2">
+		<coursename>Введение в базы данных</coursename>
+		<teacher>ст. преп. Ямщиков Д.В.</teacher>
+		<begin>18.04.2022</begin>
+		<end>29.04.2022</end>
+	</course>
+	
+	<course id = "3">
+		<coursename>Программирование на C# </coursename>
+		<teacher>ст. преп. Смольянинов А.В.</teacher>
+		<begin>11.05.2022</begin>
+		<end>31.05.2022</end>
+	</course>
+	
+</ITMOCourses>
